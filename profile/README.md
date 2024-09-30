@@ -1,5 +1,5 @@
 ## Organization Overview:
-**npm-packages-collection** is a repository hub focusing on providing reusable JavaScript utilities and frameworks for various use cases, from API development to data manipulation. This collection includes a mix of small, highly focused utility libraries as well as more complex boilerplate setups.
+[**npm-packages-collection**](https://github.com/npm-packages-collection) is a repository hub focusing on providing reusable JavaScript utilities and frameworks for various use cases, from API development to data manipulation. This collection includes a mix of small, highly focused utility libraries as well as more complex boilerplate setups.
 
 ## Repositories Summary:
 
